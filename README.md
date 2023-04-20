@@ -7,3 +7,6 @@ Some extreme 'she' occupations would be: librarian, socialite, hairdresser, nann
 Some extreme 'he' occupations would be: architect, financier, warrior, broadcaster, magician, fighter pilot, boss etc.
 
 Considering the dissimilarities between the two embedding sets of extreme 'he' job and 'she' jobs, is it valid to assume that the correlations between the words "he" and "she" and the listed occupations still hold?
+
+
+FOLLOWING IS THE LINK TO THE DATASET: https://www.kaggle.com/datasets/watts2/glove6b50dtxt
